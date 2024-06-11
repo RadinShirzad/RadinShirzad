@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RadinShirzad
-- 🌱 I’m currently learning JavaScript
+- 📝 I do a tiny bit if translation for my favorite FOSS projects [English <=> Persian]
 
 <!---
 RadinShirzad/RadinShirzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
